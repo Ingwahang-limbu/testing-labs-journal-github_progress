@@ -3,30 +3,53 @@
 > Fill in every section. Be precise, cite where relevant, and keep it concise.
 
 ## 0) Group & Roles
-- Group members: `Name A`, `Name B`, `Name C`
+- Group members: `Prajwal Karki`, `Pratima Ghalan`, `Ingwahang limbu`
 - Roles (first half → second half):  
-  - Research Lead: `Name` → `Name`  
-  - Discussion Lead: `Name` → `Name`  
-  - Scribe & Synthesiser: `Name` → `Name`
+  - Research Lead: `Prajwal` → `Pratima`  
+  - Discussion Lead: `Pratima` → `Prajwal`  
+  - Scribe & Synthesiser: `Ingwahnag Limbu` → `Ingwahang Limbu`
 
 ## 1) Case Summary (≤150 words)
-- **Case title:** `CASE-X`
-- **One-sentence summary:**  
+- **Case title:** `AI Hiring System & Indirect Discrimination`
+- **One-sentence summary:**
+  BrightHire Ltd AI recruitment tool improved hiring efficeincy but was found to disadvantage older applicants and candidates from other certain universities,raising leagal, ethical, and social concerns.    
 - **Key context & facts (bullet points):**
-  - 
-  - 
+  . BrightHire company uses AI tools for the screening of the appilcants CV.
+  - Model trained on previous data so older applicants and the candidates from certain universities were ranked lower.
+  - AI reproduce past patterns and favoured profiles smilar to previous hires.
+  - Company bnenifits from reduced manual screening time.
+  - Complaint filed by a rejected appilcant claming unfair treatment.
 
 ## 2) Stakeholders
 List primary and secondary stakeholders and their interests.
-- **Primary:** 
-- **Secondary:** 
+- **Primary:**
+- .BrightHire Management
+- .HR stafff and recruiters
+- J.ob applicants
+- .Developers of the AI system 
+- **Secondary:**
+- .Universites
+- .Regulatory Bodies
+- .Society and future job seekers
 
 ## 3) Issues Identified
-- **Legal** (e.g., data protection, discrimination, safety, IP):  
+- **Legal**
+- Possible indirect discrimination against older applicants.
+- risk of voilating the UK equality Act 2010.
+- Question regarding compliance with data protection and automated decision making regulation.
+- Potential legal action from affected candidates.  
   - 
-- **Ethical** (e.g., fairness, autonomy, accountability, transparency):  
+- **Ethical**
+- The AI system may reinforce historical baises instead of assessing applicants fairly.
+- Lack of transparency regarding how hiring decisions are made.
+- Limited accountablity when applicants are unfairly rejected.
+- Tension between efficiency and fairness.
   - 
-- **Social** (e.g., societal impact, accessibility, digital divide, public trust):  
+- **Social**
+- Reduce diversity within the workforce.
+- Potential exclusion of experienced professionals and career changers.
+- Decreased public trust in AI based recruitment.
+- Wider concerns about the impact of AI on equal opportunities in employment. 
   - 
 
 ## 4) Evidence from Sources
