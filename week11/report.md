@@ -3,11 +3,11 @@
 > Fill in every section. Be precise, cite where relevant, and keep it concise.
 
 ## 0) Group & Roles
-- Group members: `Name A`, `Name B`, `Name C`
+- Group members: `Pratima Ghalan`, `Prajwal karki`, `Ingwahang limbu#
 - Roles (first half → second half):  
-  - Research Lead: `Name` → `Name`  
-  - Discussion Lead: `Name` → `Name`  
-  - Scribe & Synthesiser: `Name` → `Name`
+  - Research Lead: `Prajwal Karki` → `Name`  
+  - Discussion Lead: `Pratima Ghalan` → `Name`  
+  - Scribe & Synthesiser: `Ingwahang Limbu` → `Name`
 
 ## 1) Case Summary (≤150 words)
 - **Case title:** `CASE-X`
